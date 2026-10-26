@@ -1,0 +1,14 @@
+{
+  "name": "akmtech00-hash/mcp-guide",
+  "description": "Practical learning repository for MCP and Laravel integration.",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "scripts": {
+    "check": [
+      "php -l examples/basic-php-server/server.php",
+      "php -l examples/basic-php-server/client.php"
+    ]
+  }
+}
